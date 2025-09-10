@@ -1,0 +1,65 @@
+
+
+
+.bg-container{
+    background-color: whitesmoke;
+    background-size: cover;
+    height: 100vh;
+}
+
+
+
+
+
+
+.circle {
+    background-color: rgb(145, 238, 145);
+    height: 34px;
+    width: 34px;
+    border-radius: 28px;
+    border-width: 0px;
+    margin-left: 270px;
+    margin-top: 200px;
+    
+
+}
+
+.circle_blue {
+    background-color: rgb(23, 136, 188);
+    height: 34px;
+    width: 34px;
+    border-radius: 28px;
+    border-width: 0px;
+    margin-left: 270px;
+    margin-top: 200px;
+    
+
+}
+
+.card-container{
+    text-align: center;
+    background-color: white;
+    width: 402px;
+    height: 252px;
+    border-radius: 12px;
+    margin-left: 80px;
+    box-shadow: 0cqw;
+    margin-bottom: 6px;
+    
+}
+
+.card-heading{
+    text-align: center;
+    color:rgb(80, 179, 225);
+    padding: 16px;
+    font-weight: bold;
+}
+
+.card-para{
+     text-align: center;
+     font-size: 24px;
+    
+     text-align: center;
+     padding: 20px;
+     font-weight:500;
+}
